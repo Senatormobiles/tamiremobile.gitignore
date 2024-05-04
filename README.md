@@ -1,1 +1,1 @@
-# tamiremobile.gitignore
+# tamiremobile.simdif.com.gitignore
